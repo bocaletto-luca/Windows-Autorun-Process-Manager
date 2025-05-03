@@ -42,12 +42,6 @@ The "Windows Startup Applications Manager" is a handy utility that allows users 
 
 The Windows Startup Applications Manager is a valuable tool for users who want to optimize their computer's startup process by controlling which applications run automatically. It simplifies the management of startup applications, helping users improve system performance and reduce startup times.
 
-Rimuovere Applicazioni dall'Avvio:** Per rimuovere un'applicazione dall'elenco di avvio, gli utenti possono selezionarla nell'elenco e fare clic sul pulsante "Rimuovi dall'Avvio".
-
-- **Avviare Applicazioni:** Gli utenti possono avviare qualsiasi applicazione dall'elenco selezionandola e facendo clic sul pulsante "Avvia Applicazione".
-
-- **Aggiornare l'Elenco:** Il pulsante "Aggiorna l'Elenco" aggiorna l'elenco visualizzato delle applicazioni all'avvio per riflettere eventuali modifiche.
-
 ### Requisiti di Sistema
 
 - Sistema operativo Windows (compatibile con le versioni di Windows che utilizzano il Registro di Windows per la gestione delle applicazioni all'avvio).
