@@ -1,12 +1,14 @@
 # Windows Startup Applications Manager
 
-![Screenshot 2023-10-08 094923](https://github.com/elektronoide/Windows-Autorun-Process-Manager/assets/134635227/d14226f6-5c4c-43b4-9369-1ed6d2eb0fca)
-
 **Author:** Luca Bocaletto
+
+**Language:** Python
 
 ## Description (English)
 
 The "Windows Startup Applications Manager" is a handy utility that allows users to manage the applications that launch automatically when their Windows computer starts up. This application provides an easy-to-use graphical interface for controlling startup applications.
+
+![Screenshot 2023-10-08 094923](https://github.com/elektronoide/Windows-Autorun-Process-Manager/assets/134635227/d14226f6-5c4c-43b4-9369-1ed6d2eb0fca)
 
 ### Key Features
 
