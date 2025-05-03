@@ -4,7 +4,7 @@
 
 **Language:** Python
 
-## Description (English)
+## Description
 
 The "Windows Startup Applications Manager" is a handy utility that allows users to manage the applications that launch automatically when their Windows computer starts up. This application provides an easy-to-use graphical interface for controlling startup applications.
 
@@ -42,35 +42,7 @@ The "Windows Startup Applications Manager" is a handy utility that allows users 
 
 The Windows Startup Applications Manager is a valuable tool for users who want to optimize their computer's startup process by controlling which applications run automatically. It simplifies the management of startup applications, helping users improve system performance and reduce startup times.
 
----
-
-## Descrizione (Italiano)
-
-**Nome del Software:** Gestore Applicazioni all'Avvio di Windows
-
-**Autore:** Luca Bocaletto
-
-Il "Gestore Applicazioni all'Avvio di Windows" è un pratico strumento che consente agli utenti di gestire le applicazioni che vengono avviate automaticamente quando il loro computer Windows si avvia. Questa applicazione fornisce un'interfaccia grafica facile da usare per controllare le applicazioni all'avvio.
-
-### Caratteristiche Principali
-
-1. **Visualizza e Gestisce le Applicazioni all'Avvio:** Il software mostra un elenco di applicazioni impostate per l'avvio automatico di Windows. Gli utenti possono visualizzare i nomi e i percorsi dei file di queste applicazioni.
-
-2. **Aggiungi Applicazioni all'Avvio:** Gli utenti possono aggiungere nuove applicazioni all'elenco di avvio specificando il percorso del file eseguibile dell'applicazione. Ciò può essere fatto utilizzando il pulsante "Sfoglia" per selezionare l'applicazione.
-
-3. **Rimuovi Applicazioni dall'Avvio:** Le applicazioni indesiderate possono essere rimosse dall'elenco di avvio selezionandole e cliccando sul pulsante "Rimuovi dall'Avvio".
-
-4. **Avvia Applicazioni:** Gli utenti possono avviare qualsiasi applicazione direttamente dall'elenco selezionandola e cliccando sul pulsante "Avvia Applicazione".
-
-5. **Aggiorna l'Elenco:** Il software fornisce un pulsante "Aggiorna l'Elenco" per aggiornare in tempo reale l'elenco delle applicazioni all'avvio.
-
-6. **Interfaccia Utente Intuitiva:** L'applicazione presenta un'interfaccia grafica semplice e intuitiva realizzata utilizzando la libreria tkinter, rendendola accessibile a utenti di tutti i livelli di esperienza.
-
-### Uso
-
-- **Aggiungere Applicazioni all'Avvio:** Per aggiungere un'applicazione all'elenco di avvio di Windows, gli utenti possono fare clic sul pulsante "Sfoglia" per selezionare il file eseguibile dell'applicazione. Successivamente, possono fare clic sul pulsante "Aggiungi all'Avvio".
-
-- **Rimuovere Applicazioni dall'Avvio:** Per rimuovere un'applicazione dall'elenco di avvio, gli utenti possono selezionarla nell'elenco e fare clic sul pulsante "Rimuovi dall'Avvio".
+Rimuovere Applicazioni dall'Avvio:** Per rimuovere un'applicazione dall'elenco di avvio, gli utenti possono selezionarla nell'elenco e fare clic sul pulsante "Rimuovi dall'Avvio".
 
 - **Avviare Applicazioni:** Gli utenti possono avviare qualsiasi applicazione dall'elenco selezionandola e facendo clic sul pulsante "Avvia Applicazione".
 
