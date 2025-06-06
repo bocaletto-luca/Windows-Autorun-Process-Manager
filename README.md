@@ -41,7 +41,3 @@ The "Windows Startup Applications Manager" is a handy utility that allows users 
 ### Use Case
 
 The Windows Startup Applications Manager is a valuable tool for users who want to optimize their computer's startup process by controlling which applications run automatically. It simplifies the management of startup applications, helping users improve system performance and reduce startup times.
-
-### Requisiti di Sistema
-
-- Sistema operativo Windows (compatibile con le versioni di Windows che utilizzano il Registro di Windows per la gestione delle applicazioni all'avvio).
