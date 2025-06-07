@@ -1,6 +1,8 @@
-# Name Software: Windows-Autorun-Process-Manager
+# Software Name: Windows-Autorun-Process-Manager
 # Author: Bocaletto Luca
+# Language: Italian
 # Import delle librerie tkinter e altre librerie necessarie
+
 import tkinter as tk
 import tkinter.ttk as ttk  # Importa il modulo ttk da tkinter
 import os
